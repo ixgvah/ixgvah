@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡I am currently working on developing my programming skills<br>🤝 I’m looking for my first job in IT incdustry<br>✏️ I’m currently learning Laravel and Scala
+💡I am currently working on developing my programming skills<br>🤝 I’m looking for my first job in IT industry<br>✏️ I’m currently learning Laravel and Scala
 
 
 ## 🌐 Socials:
